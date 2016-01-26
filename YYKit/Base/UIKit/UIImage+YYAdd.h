@@ -331,6 +331,8 @@
  */
 - (UIImage *)imageByBlurDark;
 
+- (UIImage *)imageByBlurSuperLight;
+
 /**
  Applies a blur and tint color to this image.
  
